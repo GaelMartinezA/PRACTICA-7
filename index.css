@@ -64,7 +64,11 @@ body {
 .fondo-icon {
   	position: absolute;
   	top: 740px;
-  	left: 0px;
+	bottom: 0;
+	right: 0;
+  	left: 50%;
+	transform: translatex(-50%);
+	margin: auto;
   	width: 100vw;
   	height: auto;
   	flex-shrink: 0;
