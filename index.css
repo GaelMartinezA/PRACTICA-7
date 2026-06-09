@@ -1,0 +1,86 @@
+body {
+	margin: 0;
+  	width: 100vw;
+  	height: auto;
+  	position: relative;
+  	background-color: #fff;
+  	overflow: hidden;
+  	display: grid;
+  	grid-template-columns: repeat(12, 1fr);
+  	column-gap: 20px;
+  	padding-left: 24px;
+  	padding-right: 24px;
+  	grid-template-rows: repeat(auto-fill, 10px);
+  	align-content: start;
+}
+.lineas-icon {
+  	position: absolute;
+  	top: 348px;
+  	left: -353.93px;
+  	width: 120vw;
+  	height: auto;
+  	flex-shrink: 0;
+}
+
+.mundial {
+	margin: 50px;
+}
+
+.mundial-icon {
+  	position: absolute;
+  	top: 120px;
+  	left: calc(50% - 412px);
+  	width: 824px;
+  	height: 142px;
+  	flex-shrink: 0;
+}
+.detalles-negro-icon {
+  	position: absolute;
+  	top: 341.33px;
+  	left: calc(50% - 649.13px);
+  	width: 1298.6px;
+  	height: 356.8px;
+  	flex-shrink: 0;
+}
+.estadio-icon {
+  	position: absolute;
+  	top: 461.99px;
+  	left: calc(50% - 578.02px);
+  	width: 1156.1px;
+  	height: 293px;
+  	flex-shrink: 0;
+}
+.fondo-icon {
+  	position: absolute;
+  	top: 740px;
+  	left: 0px;
+  	width: 100vw;
+  	height: auto;
+  	flex-shrink: 0;
+}
+.del-despojo-icon {
+  	position: absolute;
+  	top: 780px;
+  	left: calc(50% - 461px);
+  	width: 922px;
+  	height: 110px;
+  	flex-shrink: 0;
+}
+.botom-icon {
+  	position: absolute;
+  	top: 960px;
+  	left: calc(50% - 225px);
+  	width: 450px;
+  	height: 80px;
+  	flex-shrink: 0;
+}
+.menu-bar-icon {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 100vw;
+  	height: auto;
+  	flex-shrink: 0;
+}
+
+
