@@ -52,8 +52,11 @@ body {
 }
 .estadio-icon {
   	position: absolute;
+	bottom: 0;
   	top: 461.99px;
-  	left: calc(50% - 578.02px);
+	right: 0;
+  	left: 50%;
+	transform: translatex(-50%);
   	width: 1156.1px;
   	height: 293px;
   	flex-shrink: 0;
