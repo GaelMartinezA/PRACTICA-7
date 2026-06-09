@@ -28,10 +28,6 @@ body {
   	flex-shrink: 0;
 }
 
-.mundial {
-	margin: 50px;
-}
-
 .mundial-icon {
   	position: absolute;
   	top: 120px;
