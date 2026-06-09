@@ -1,5 +1,7 @@
 body {
-	overflow-y: auto; }
+	overflow-y: auto;
+	overflow-x: hidden;
+}
 .home {
 	margin: 0;
   	width: 100vw;
