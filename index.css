@@ -1,4 +1,6 @@
 body {
+	width: 100vw;
+	heigh: auto;
 	overflow-y: auto;
 	overflow-x: hidden;
 }
