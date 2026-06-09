@@ -4,7 +4,6 @@ body {
   	height: auto;
   	position: relative;
   	background-color: #fff;
-  	overflow-x: hidden;
   	display: grid;
   	grid-template-columns: repeat(12, 1fr);
   	column-gap: 20px;
