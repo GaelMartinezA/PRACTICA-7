@@ -21,13 +21,18 @@ body {
   	grid-template-rows: repeat(auto-fill, 10px);
   	align-content: start;
 }
+
 .lineas-icon {
   	position: absolute;
   	top: 348px;
-  	left: 0px;
-  	width: 100vw;
+  	left: -353.93px;
+  	width: 120vw;
   	height: auto;
   	flex-shrink: 0;
+}
+
+.mundial {
+	margin: 50px;
 }
 
 .mundial-icon {
@@ -58,8 +63,9 @@ body {
   	position: absolute;
   	top: 740px;
   	left: 0px;
-  	width: 100%;
+  	width: 100vw;
   	height: auto;
+  	flex-shrink: 0;
 }
 .del-despojo-icon {
   	position: absolute;
@@ -83,6 +89,7 @@ body {
   	left: 0px;
   	width: 100vw;
   	height: auto;
+  	flex-shrink: 0;
 }
 
 
